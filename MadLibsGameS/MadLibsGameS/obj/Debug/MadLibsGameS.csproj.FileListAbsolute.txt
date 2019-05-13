@@ -1,0 +1,7 @@
+C:\Users\sha\source\repos\MadLibsGameS\MadLibsGameS\obj\Debug\MadLibsGameS.csprojAssemblyReference.cache
+C:\Users\sha\source\repos\MadLibsGameS\MadLibsGameS\obj\Debug\MadLibsGameS.csproj.CoreCompileInputs.cache
+C:\Users\sha\source\repos\MadLibsGameS\MadLibsGameS\bin\Debug\MadLibsGameS.exe.config
+C:\Users\sha\source\repos\MadLibsGameS\MadLibsGameS\bin\Debug\MadLibsGameS.exe
+C:\Users\sha\source\repos\MadLibsGameS\MadLibsGameS\bin\Debug\MadLibsGameS.pdb
+C:\Users\sha\source\repos\MadLibsGameS\MadLibsGameS\obj\Debug\MadLibsGameS.exe
+C:\Users\sha\source\repos\MadLibsGameS\MadLibsGameS\obj\Debug\MadLibsGameS.pdb
