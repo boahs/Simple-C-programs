@@ -1,0 +1,7 @@
+C:\Users\sha\source\repos\GoT\GoT\bin\Debug\GoT.exe.config
+C:\Users\sha\source\repos\GoT\GoT\bin\Debug\GoT.exe
+C:\Users\sha\source\repos\GoT\GoT\bin\Debug\GoT.pdb
+C:\Users\sha\source\repos\GoT\GoT\obj\Debug\GoT.csprojAssemblyReference.cache
+C:\Users\sha\source\repos\GoT\GoT\obj\Debug\GoT.csproj.CoreCompileInputs.cache
+C:\Users\sha\source\repos\GoT\GoT\obj\Debug\GoT.exe
+C:\Users\sha\source\repos\GoT\GoT\obj\Debug\GoT.pdb
