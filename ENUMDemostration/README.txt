@@ -1,0 +1,1 @@
+Simply a ENUM demo I wrote to show the use of enum 
